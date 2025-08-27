@@ -37,7 +37,7 @@ export default function Contact() {
                             </div>
                             <div className="text-lg pl-8">
                                 <h1 className="font-bold">HealthCare Center</h1>
-                                <p>123 Wellness Street, Healthy City,<br />New Delhi, India - 110092</p>
+                                <p>272 Wellness Street, Healthy City,<br />New Delhi, India - 110092</p>
                             </div>
                         </div>
                         <div className="flex items-center">
